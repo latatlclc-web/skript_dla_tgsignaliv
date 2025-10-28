@@ -60,7 +60,7 @@ db.serialize(() => {
 // ============================================
 // TELEGRAM BOT TOKEN (з BotFather)
 // ============================================
-const TELEGRAM_BOT_TOKEN = 'YOUR_BOT_TOKEN_HERE'; // Замінити на реальний токен
+const TELEGRAM_BOT_TOKEN = '7711323850:AAFUXQS7GdZkSkzOtbYzvOnNtHaN-Y_ewfM'; // Замінити на реальний токен
 
 // ============================================
 // ФУНКЦІЯ ВІДПРАВКИ В TELEGRAM
